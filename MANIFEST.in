@@ -1,0 +1,5 @@
+recursive-include filebrowser/templates *
+recursive-include filebrowser/media *
+recursive-include filebrowser/static *
+recursive-include filebrowser/locale *
+recursive-include filebrowser/templatetags *
